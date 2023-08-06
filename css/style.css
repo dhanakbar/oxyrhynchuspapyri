@@ -1,0 +1,16 @@
+.neumorphism {
+  background: linear-gradient(145deg, #cacaca, #f0f0f0);
+  box-shadow: 4px 4px 10px #9d9d9d,
+    -5px -5px 10px #ffffff;
+}
+
+.neumorphism:hover {
+  background: #e0e0e0;
+  box-shadow: inset 6px 6px 10px #bebebe,
+    inset -12px -12px 24px #ffffff;
+}
+
+.neumorphism-service {
+  box-shadow: 8px 8px 16px #b3b3b3,
+    -8px -8px 16px #ffffff;
+}
